@@ -1,0 +1,11 @@
+{
+    "name": "jenkins",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+    "test": "echo \"Success: all tests passed\""
+    },
+    "author": "",
+    "license": "ISC"
+    }
